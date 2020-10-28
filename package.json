@@ -1,0 +1,45 @@
+{
+  "name": "Reset-CSS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "author": "kazuma takeda",
+  "license": "MID",
+  "homepage": "",
+  "devDependencies": {
+    "autoprefixer": "^9.8.6",
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-cached": "^1.1.1",
+    "gulp-changed": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sass-glob": "^1.1.0",
+    "gulp-watch": "^5.0.1",
+    "npm": "^6.14.8"
+  },
+  "dependencies": {
+    "gulp-rename": "^2.0.0",
+    "npm-check-updates": "^7.1.1"
+  },
+  "browserslist": [
+    "ie >= 11",
+    "Android >= 4",
+    "> 1%"
+  ]
+}
